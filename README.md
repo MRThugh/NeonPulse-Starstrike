@@ -32,6 +32,12 @@ You control a neon-powered spaceship in deep space, dodging enemy attacks, firin
 
 > Intro cinematic of the game showing core atmosphere and style
 
+## 🧭 Main Menu
+
+![Main Menu Screen](main_menu.mp4)
+
+> Main menu showcasing navigation, UI style, and visual theme
+
 
 ## 🤖 AI-Assisted Development
 
