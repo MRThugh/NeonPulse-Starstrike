@@ -28,7 +28,7 @@ You control a neon-powered spaceship in deep space, dodging enemy attacks, firin
 
 ## 🎮 Game Intro
 
-![Intro Gameplay](intro.gif)
+![Intro Gameplay](Intro.gif)
 
 > Intro cinematic of the game showing core atmosphere and style
 
