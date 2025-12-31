@@ -26,6 +26,13 @@ You control a neon-powered spaceship in deep space, dodging enemy attacks, firin
 
 ---
 
+## 🎮 Game Intro
+
+![Intro Gameplay](intro.gif)
+
+> Intro cinematic of the game showing core atmosphere and style
+
+
 ## 🤖 AI-Assisted Development
 
 This game was developed with the assistance of **Artificial Intelligence tools**.
