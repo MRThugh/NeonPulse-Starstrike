@@ -97,8 +97,11 @@ GitHub Profile:
 
 ## 📄 License
 
-This project is shared for **learning, portfolio, and demonstration purposes**.  
-Redistribution or modification of the game files without permission is **not allowed**.
+This project is open-source and available for learning, portfolio, and development purposes.
+
+You are free to use, modify, and expand the project.  
+However, proper credit to the original author must be provided when redistributing or building upon this work.
+
 
 ---
 
