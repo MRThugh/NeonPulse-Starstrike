@@ -3,10 +3,20 @@
   <img src="banner.png" alt="NeonPulse: Starstrike Banner" width="100%">
 </p>
 
+<p align="center">
+  <a href="https://github.com/MRThugh/NeonPulse-Starstrike/stargazers"><img src="https://img.shields.io/github/stars/MRThugh/NeonPulse-Starstrike?style=for-the-badge&color=yellow" alt="Stars"></a>
+  <a href="https://github.com/MRThugh/NeonPulse-Starstrike/network/members"><img src="https://img.shields.io/github/forks/MRThugh/NeonPulse-Starstrike?style=for-the-badge&color=orange" alt="Forks"></a>
+  <a href="https://github.com/MRThugh/NeonPulse-Starstrike/issues"><img src="https://img.shields.io/github/issues/MRThugh/NeonPulse-Starstrike?style=for-the-badge&color=red" alt="Issues"></a>
+  <img src="https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python" alt="Python">
+  <a href="https://github.com/MRThugh/NeonPulse-Starstrike/releases"><img src="https://img.shields.io/github/v/release/MRThugh/NeonPulse-Starstrike?style=for-the-badge&color=success" alt="Release"></a>
+  <img src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-ff69b4?style=for-the-badge" alt="Open Source Love">
+  <img src="https://img.shields.io/github/license/MRThugh/NeonPulse-Starstrike?style=for-the-badge&color=blueviolet" alt="License">
+</p>
+
 # 🚀 NeonPulse: Starstrike
 
 **NeonPulse: Starstrike** is a fast-paced neon arcade space shooter game developed in **Python**.  
-This repository is intended to showcase and distribute the game as a **finished product**.
+This project is now **completely open-source**! We welcome developers, gamers, and enthusiasts to explore the code, modify it, and contribute to the game's universe.
 
 ---
 
@@ -53,36 +63,39 @@ All gameplay logic, structure, and final implementation were created, reviewed, 
 
 ---
 
-## 🔒 Source Code Availability
+## 🔓 Open Source & Contributions
 
-The source code of this project is **not publicly available**.
+The source code of this project is **100% publicly available**!
 
-This repository is provided for:
-- Game presentation  
-- Distribution of the playable build  
-- Portfolio and demonstration purposes  
+Whether you want to learn how the game was built, use the mechanics for your own portfolio, or contribute to making **NeonPulse: Starstrike** even better, you are fully encouraged to do so. 
 
-Only the compiled game / setup file is shared.
+**Feel free to:**
+- Clone and explore the repository
+- Submit Pull Requests (PRs) for bug fixes or new features
+- Open issues for suggestions and improvements
 
 ---
 
-## ⬇️ Download & Releases
+## ⬇️ Download & Releases (Play the Game)
 
-You can download the latest playable version of the game from the **GitHub Releases** page:
+If you just want to play the game without messing with the code, you can download the latest compiled playable version from the **GitHub Releases** page:
 
 🔗 https://github.com/MRThugh/NeonPulse-Starstrike/releases
 
-
-
 ---
 
-## 🕹️ How to Play
+## 🕹️ How to Play / Run from Source
 
+**To just play the game:**
 1. Download the setup or executable file from the Releases page.  
 2. Install the game on your system.  
-3. Run the game and enjoy.  
+3. Run the game and enjoy. _No additional configuration required._
 
-_No additional configuration required._
+**To run from source code:**
+1. Clone the repository: `git clone https://github.com/MRThugh/NeonPulse-Starstrike.git`
+2. Navigate to the folder: `cd NeonPulse-Starstrike`
+3. Install dependencies: `pip install -r requirements.txt` *(Make sure to add a requirements.txt if you have one)*
+4. Run the main file: `python main.py`
 
 ---
 
@@ -101,7 +114,6 @@ This project is open-source and available for learning, portfolio, and developme
 
 You are free to use, modify, and expand the project.  
 However, proper credit to the original author must be provided when redistributing or building upon this work.
-
 
 ---
 
