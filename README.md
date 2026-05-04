@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python" alt="Python">
   <a href="https://github.com/MRThugh/NeonPulse-Starstrike/releases"><img src="https://img.shields.io/github/v/release/MRThugh/NeonPulse-Starstrike?style=for-the-badge&color=success" alt="Release"></a>
   <img src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-ff69b4?style=for-the-badge" alt="Open Source Love">
-  <img src="https://img.shields.io/github/license/MRThugh/NeonPulse-Starstrike?style=for-the-badge&color=blueviolet" alt="License">
+  <img src="https://img.shields.io/github/license/MRThugh/NeonPulse-Starstrike?style=for-the-badge&color=blueviolet" alt="License MIT">
 </p>
 
 # 🚀 NeonPulse: Starstrike
